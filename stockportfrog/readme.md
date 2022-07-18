@@ -1,4 +1,4 @@
-# OpendSCAD - Stockport's Giant Leap Frog
+# OpenSCAD - Stockport's Giant Leap Frog
 
 This is my micro model of the Stockport's "Giant Leap" Frog statues that are being displayed in and around Stockport UK during the summer of 2019.
 
